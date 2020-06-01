@@ -1,0 +1,66 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/campfire_log",
+		"log": "block/campfire_log"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 1, 0, 0 ],
+			"to": [ 5, 4, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 4 ], "texture": "#log", "cullface": "down", "rotation": 90 },
+				"up": { "uv": [ 0, 0, 16, 4 ], "texture": "#log", "rotation": 90 },
+				"north": { "uv": [ 0, 4, 4, 8 ], "texture": "#log", "cullface": "north" },
+				"south": { "uv": [ 0, 4, 4, 8 ], "texture": "#log", "cullface": "south" },
+				"west": { "uv": [ 16, 0, 0, 4 ], "texture": "#log" },
+				"east": { "uv": [ 0, 0, 16, 4 ], "texture": "#log" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 0, 3, 11 ],
+			"to": [ 16, 7, 15 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 4 ], "texture": "#log" },
+				"up": { "uv": [ 0, 0, 16, 4 ], "texture": "#log", "rotation": 180 },
+				"north": { "uv": [ 16, 0, 0, 4 ], "texture": "#log" },
+				"south": { "uv": [ 0, 0, 16, 4 ], "texture": "#log" },
+				"west": { "uv": [ 0, 4, 4, 8 ], "texture": "#log", "cullface": "west" },
+				"east": { "uv": [ 0, 4, 4, 8 ], "texture": "#log", "cullface": "east" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 11, 0, 0 ],
+			"to": [ 15, 4, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 4 ], "texture": "#log", "cullface": "down", "rotation": 90 },
+				"up": { "uv": [ 0, 0, 16, 4 ], "texture": "#log", "rotation": 90 },
+				"north": { "uv": [ 0, 4, 4, 8 ], "texture": "#log", "cullface": "north" },
+				"south": { "uv": [ 0, 4, 4, 8 ], "texture": "#log", "cullface": "south" },
+				"west": { "uv": [ 16, 0, 0, 4 ], "texture": "#log" },
+				"east": { "uv": [ 0, 0, 16, 4 ], "texture": "#log" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 0, 3, 1 ],
+			"to": [ 16, 7, 5 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 4 ], "texture": "#log" },
+				"up": { "uv": [ 0, 0, 16, 4 ], "texture": "#log", "rotation": 180 },
+				"north": { "uv": [ 0, 0, 16, 4 ], "texture": "#log" },
+				"south": { "uv": [ 16, 0, 0, 4 ], "texture": "#log" },
+				"west": { "uv": [ 0, 4, 4, 8 ], "texture": "#log", "cullface": "west" },
+				"east": { "uv": [ 0, 4, 4, 8 ], "texture": "#log", "cullface": "east" }
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation":  [ 0, 10.5, 0 ]
+		}
+	}
+}

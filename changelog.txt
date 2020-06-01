@@ -1,0 +1,48 @@
+
+v2.6
+- many 2d items changed to their 3d models
+
+- brick double slab texture changed
+- bamboo leaf texture changed
+- purple glazed terracotta texture changed
+- bone block top texture changed
+- lecturn texture changed
+- smooth sandstone double slab texture changed
+- bottom sandstone texture
+
+v2.5.1
+- acacia planks blockstate removed
+
+v2.5
+- oxeye daisies have variants
+- slabs, and double slabs all have variants
+- bamboo texture changed
+
+v2.4-
+- oak, birch, spruce, jungle, and dark oak planks, slabs, and double slabs have variants
+
+- composter texture changed
+- conduit texture changed
+- cornflower texture changed
+- smithing table texture changed
+- top texture is now bedrock tile
+- iron bars texture changed
+- black bars from uPflows
+- iron door texture changed
+- snow texture
+
+- unlit campfire no longer has coal
+- campfire particles is the same as torches
+- end rod no longer has particle
+
+- prismarine and dark prismarine double slab texture changed
+- sandstone and red sandstone double slab texture changed
+- quartz double slab texture changed
+- stone and polished diorite double slab texture changed
+- brick double slab texture changed
+- end stone brick double slab texture changed
+- oak, birch, spruce, jungle, and dark oak double slab texture changed
+- oak, birch, spruce, jungle, acacia, and dark oak door texture changed
+- oak, birch, spruce, jungle, acacia, and dark oak trapdoor texture changed
+- concrete texture reverted to old wokflows
+- end stone bricks reverted to old wokflows

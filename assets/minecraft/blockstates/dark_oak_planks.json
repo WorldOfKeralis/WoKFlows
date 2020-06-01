@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/dark_oak_planks"},
+            { "model": "block/dark_oak_planks1"},
+			{ "model": "block/dark_oak_planks2"},
+			{ "model": "block/dark_oak_planks3"},
+			{ "model": "block/dark_oak_planks4"},
+			{ "model": "block/dark_oak_planks5"},
+			{ "model": "block/dark_oak_planks6"}
+        ]
+    }
+}

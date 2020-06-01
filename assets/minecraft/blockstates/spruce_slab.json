@@ -1,0 +1,32 @@
+{
+    "variants": {
+        "type=bottom": [
+			{ "model": "block/spruce_slab", "weight": 2 },
+			{ "model": "block/spruce_slab1", "weight": 2 },
+			{ "model": "block/spruce_slab2", "weight": 2 },
+			{ "model": "block/spruce_slab3", "weight": 2 },
+			{ "model": "block/spruce_slab4", "weight": 2 },
+			{ "model": "block/spruce_slab5", "weight": 2 },
+			{ "model": "block/spruce_slab6", "weight": 2 }
+		],
+        "type=top": [
+			{ "model": "block/spruce_slab_top", "weight": 2 },
+			{ "model": "block/spruce_slab_top1", "weight": 2 },
+			{ "model": "block/spruce_slab_top2", "weight": 2 },
+			{ "model": "block/spruce_slab_top3", "weight": 2 },
+			{ "model": "block/spruce_slab_top4", "weight": 2 },
+			{ "model": "block/spruce_slab_top5", "weight": 2 },
+			{ "model": "block/spruce_slab_top6", "weight": 2 }
+		],	
+        "type=double": [
+			{ "model": "block/spruce_double_slab", "weight": 2 },
+			{ "model": "block/spruce_double_slab1", "weight": 2 },
+			{ "model": "block/spruce_double_slab2", "weight": 2 },
+			{ "model": "block/spruce_double_slab3", "weight": 2 },
+			{ "model": "block/spruce_double_slab4", "weight": 2 },
+			{ "model": "block/spruce_double_slab5", "weight": 2 },
+			{ "model": "block/spruce_double_slab6", "weight": 2 }
+		]
+    }
+}
+
