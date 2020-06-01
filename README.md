@@ -8,3 +8,8 @@ Resource pack used for the World of Keralis Minecraft Server.
 2. Move (or download) the file to ``%appdata%/roaming/.minecraft/resourcepacks.``
 4. Run Minecraft and access your resource-pack folder via the in-game menu.
 5. Select the WoK-Flows resource-pack.
+
+#### Support:
+
+For support, contact us on our discord server
+https://discord.gg/wok
